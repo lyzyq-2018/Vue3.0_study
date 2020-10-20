@@ -1,0 +1,3 @@
+module.exprots={
+  lintOnSave:false
+}
